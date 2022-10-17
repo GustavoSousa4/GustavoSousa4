@@ -4,6 +4,7 @@
   :mega: Courses taken: &nbsp; 
     <a href="https://www.cursoemvideo.com/">Curso em Vídeo</a>, 
     <a href="https://www.ev.org.br/">Fundação Bradesco</a>
+    <a href = "https://online.sp.senai.br/curso/95088/483/competencia-transversal-logica-de-programacao">SENAI EAD</a>
   <br/><br/>
   <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /></code>
   <code><img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /></code>
