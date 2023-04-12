@@ -10,8 +10,6 @@
   <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" /></code>
   <code><img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" / /></code>
   <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
-  <code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /></code>
-  <code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /></code>
   <br/><br/>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=GustavoSousa4&theme=dark&date_format=j%2Fn%5B%2FY%5D&dates=CFEDFF&background=09070F"/><br/>
   <img src="https://profile-counter.glitch.me/GustavoSousa4/count.svg"/>
