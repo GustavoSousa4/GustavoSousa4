@@ -1,18 +1,32 @@
+
+
 <div align="center">
-  :computer: Apps: &nbsp; VS Code, Visual Studio
-  <br/>
-  :mega: Courses taken: &nbsp; 
-    <a href="https://www.cursoemvideo.com/">Curso em Vídeo</a>, 
-    <a href="https://www.ev.org.br/">Fundação Bradesco</a>,
-    <a href = "https://online.sp.senai.br/curso/95088/483/competencia-transversal-logica-de-programacao">SENAI EAD</a>
-  <br/><br/>
-  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /></code>
-  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" /></code>
-  <code><img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" / /></code>
-  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
-  <br/><br/>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=GustavoSousa4&theme=dark&date_format=j%2Fn%5B%2FY%5D&dates=CFEDFF&background=09070F"/><br/>
-  <img src="https://profile-counter.glitch.me/GustavoSousa4/count.svg"/>
-<!--   <p>started 03/05/22</p> -->
-</div>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<img width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+<div/>
+
+## **Linguagens e Ferramentas:**  
+
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+## **GitHub Estatísticas**
+<a href="https://github.com/Gurupreet">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=GustavoSousa4&show_icons=true&theme=dracula&line_height=27" alt="GustavoSousa4 github stats"/>
+</a>
+<br>
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSousa4&theme=dracula&hide_langs_below=1" />
+</a>
+
+[linkedin]: https://www.linkedin.com/in/gustavoefsousa
+<br>
+
+#### Rede Sociais!
+
+👔 [linkedin][linkedin]
