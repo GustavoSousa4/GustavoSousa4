@@ -27,6 +27,6 @@
 [linkedin]: https://www.linkedin.com/in/gustavoefsousa
 <br>
 
-#### Rede Sociais!
+#### Rede Social!
 
 👔 [linkedin][linkedin]
