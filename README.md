@@ -21,7 +21,7 @@
 </a>
 <br>
 <a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSousa4&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSousa4&theme=dracula&hide_langs_below=5" />
 </a>
 
 [linkedin]: https://www.linkedin.com/in/gustavoefsousa
