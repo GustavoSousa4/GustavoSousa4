@@ -16,11 +16,11 @@
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"></code>
 
 ## **GitHub Estatísticas**
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=GustavoSousa4&show_icons=true&theme=dracula&line_height=27" alt="GustavoSousa4 github stats"/>
+<a href="https://github.com/Gustavosousa4">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=GustavoSousa4&theme=dracula&line_height=27" alt="GustavoSousa4 github stats"/>
 </a>
 <br>
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/GustavoSousa4">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSousa4&theme=dracula&hide_langs_below=5" />
 </a>
 
